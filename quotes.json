@@ -1,402 +1,502 @@
 {
   "quotes": [
     {
+      "id": 1,
       "quote": "Be yourself; everyone else is already taken.",
       "author": "Oscar Wilde"
     },
     {
+      "id": 2,
       "quote": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
       "author": "Albert Einstein"
     },
     {
+      "id": 3,
       "quote": "So many books, so little time.",
       "author": "Frank Zappa"
     },
     {
+      "id": 4,
       "quote": "A room without books is like a body without a soul.",
       "author": "Marcus Tullius Cicero"
     },
     {
+      "id": 5,
       "quote": "You only live once, but if you do it right, once is enough.",
       "author": "Mae West"
     },
     {
+      "id": 6,
       "quote": "Be the change that you wish to see in the world.",
       "author": "Mahatma Gandhi"
     },
     {
+      "id": 7,
       "quote": "In three words I can sum up everything I've learned about life: it goes on.",
       "author": "Robert Frost"
     },
     {
+      "id": 8,
       "quote": "If you tell the truth, you don't have to remember anything.",
       "author": "Mark Twain"
     },
     {
+      "id": 9,
       "quote": "A friend is someone who knows all about you and still loves you.",
       "author": "Elbert Hubbard"
     },
     {
+      "id": 10,
       "quote": "Always forgive your enemies; nothing annoys them so much.",
       "author": "Oscar Wilde"
     },
     {
+      "id": 11,
       "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
       "author": "Oscar Wilde"
     },
     {
+      "id": 12,
       "quote": "Without music, life would be a mistake.",
       "author": "Friedrich Nietzsche"
     },
     {
+      "id": 13,
       "quote": "We accept the love we think we deserve.",
       "author": "Stephen Chbosky"
     },
     {
+      "id": 14,
       "quote": "Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.",
       "author": "Marilyn Monroe"
     },
     {
+      "id": 15,
       "quote": "It is never too late to be what you might have been.",
       "author": "George Eliot"
     },
     {
+      "id": 16,
       "quote": "It does not do to dwell on dreams and forget to live.",
       "author": "J.K. Rowling"
     },
     {
+      "id": 17,
       "quote": "Life isn't about finding yourself. Life is about creating yourself.",
       "author": "George Bernard Shaw"
     },
     {
+      "id": 18,
       "quote": "Do what you can, with what you have, where you are.",
       "author": "Theodore Roosevelt"
     },
     {
+      "id": 19,
       "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
       "author": "Winston S. Churchill"
     },
     {
+      "id": 20,
       "quote": "There is no greater agony than bearing an untold story inside you.",
       "author": "Maya Angelou"
     },
     {
+      "id": 21,
       "quote": "Everything you can imagine is real.",
       "author": "Pablo Picasso"
     },
     {
+      "id": 22,
       "quote": "Do one thing every day that scares you.",
       "author": "Eleanor Roosevelt"
     },
     {
+      "id": 23,
       "quote": "The only way to do great work is to love what you do.",
       "author": "Steve Jobs"
     },
     {
+      "id": 24,
       "quote": "Believe you can and you're halfway there.",
       "author": "Theodore Roosevelt"
     },
     {
+      "id": 25,
       "quote": "Turn your wounds into wisdom.",
       "author": "Oprah Winfrey"
     },
     {
+      "id": 26,
       "quote": "You miss 100% of the shots you don't take.",
       "author": "Wayne Gretzky"
     },
     {
+      "id": 27,
       "quote": "Happiness is not something ready made. It comes from your own actions.",
       "author": "Dalai Lama"
     },
     {
+      "id": 28,
       "quote": "The journey of a thousand miles begins with a single step.",
       "author": "Lao Tzu"
     },
     {
+      "id": 29,
       "quote": "The best way to predict your future is to create it.",
       "author": "Abraham Lincoln"
     },
     {
+      "id": 30,
       "quote": "Your time is limited, so don\u2019t waste it living someone else\u2019s life.",
       "author": "Steve Jobs"
     },
     {
+      "id": 31,
       "quote": "Life is what happens when you're busy making other plans.",
       "author": "John Lennon"
     },
     {
+      "id": 32,
       "quote": "It always seems impossible until it's done.",
       "author": "Nelson Mandela"
     },
     {
+      "id": 33,
       "quote": "Not all those who wander are lost.",
       "author": "J.R.R. Tolkien"
     },
     {
+      "id": 34,
       "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
       "author": "Ralph Waldo Emerson"
     },
     {
+      "id": 35,
       "quote": "Don't cry because it's over, smile because it happened.",
       "author": "Dr. Seuss"
     },
     {
+      "id": 36,
       "quote": "Act as if what you do makes a difference. It does.",
       "author": "William James"
     },
     {
+      "id": 37,
       "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
       "author": "Ralph Waldo Emerson"
     },
     {
+      "id": 38,
       "quote": "Dream big and dare to fail.",
       "author": "Norman Vaughan"
     },
     {
+      "id": 39,
       "quote": "The best revenge is massive success.",
       "author": "Frank Sinatra"
     },
     {
+      "id": 40,
       "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
       "author": "Zig Ziglar"
     },
     {
+      "id": 41,
       "quote": "The purpose of our lives is to be happy.",
       "author": "Dalai Lama"
     },
     {
+      "id": 42,
       "quote": "You can't blame gravity for falling in love.",
       "author": "Albert Einstein"
     },
     {
+      "id": 43,
       "quote": "Love yourself first and everything else falls into line.",
       "author": "Lucille Ball"
     },
     {
+      "id": 44,
       "quote": "Keep your face always toward the sunshine\u2014and shadows will fall behind you.",
       "author": "Walt Whitman"
     },
     {
+      "id": 45,
       "quote": "Try to be a rainbow in someone else's cloud.",
       "author": "Maya Angelou"
     },
     {
+      "id": 46,
       "quote": "Stay hungry, stay foolish.",
       "author": "Steve Jobs"
     },
     {
+      "id": 47,
       "quote": "Limit your 'always' and your 'nevers'.",
       "author": "Amy Poehler"
     },
     {
+      "id": 48,
       "quote": "Nothing is impossible. The word itself says 'I'm possible!'",
       "author": "Audrey Hepburn"
     },
     {
+      "id": 49,
       "quote": "You are enough just as you are.",
       "author": "Meghan Markle"
     },
     {
+      "id": 50,
       "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
       "author": "Franklin D. Roosevelt"
     },
     {
+      "id": 51,
       "quote": "Don\u2019t wait. The time will never be just right.",
       "author": "Napoleon Hill"
     },
     {
+      "id": 52,
       "quote": "Inspirational quote number 52.",
       "author": "Anonymous"
     },
     {
+      "id": 53,
       "quote": "Inspirational quote number 53.",
       "author": "Anonymous"
     },
     {
+      "id": 54,
       "quote": "Inspirational quote number 54.",
       "author": "Anonymous"
     },
     {
+      "id": 55,
       "quote": "Inspirational quote number 55.",
       "author": "Anonymous"
     },
     {
+      "id": 56,
       "quote": "Inspirational quote number 56.",
       "author": "Anonymous"
     },
     {
+      "id": 57,
       "quote": "Inspirational quote number 57.",
       "author": "Anonymous"
     },
     {
+      "id": 58,
       "quote": "Inspirational quote number 58.",
       "author": "Anonymous"
     },
     {
+      "id": 59,
       "quote": "Inspirational quote number 59.",
       "author": "Anonymous"
     },
     {
+      "id": 60,
       "quote": "Inspirational quote number 60.",
       "author": "Anonymous"
     },
     {
+      "id": 61,
       "quote": "Inspirational quote number 61.",
       "author": "Anonymous"
     },
     {
+      "id": 62,
       "quote": "Inspirational quote number 62.",
       "author": "Anonymous"
     },
     {
+      "id": 63,
       "quote": "Inspirational quote number 63.",
       "author": "Anonymous"
     },
     {
+      "id": 64,
       "quote": "Inspirational quote number 64.",
       "author": "Anonymous"
     },
     {
+      "id": 65,
       "quote": "Inspirational quote number 65.",
       "author": "Anonymous"
     },
     {
+      "id": 66,
       "quote": "Inspirational quote number 66.",
       "author": "Anonymous"
     },
     {
+      "id": 67,
       "quote": "Inspirational quote number 67.",
       "author": "Anonymous"
     },
     {
+      "id": 68,
       "quote": "Inspirational quote number 68.",
       "author": "Anonymous"
     },
     {
+      "id": 69,
       "quote": "Inspirational quote number 69.",
       "author": "Anonymous"
     },
     {
+      "id": 70,
       "quote": "Inspirational quote number 70.",
       "author": "Anonymous"
     },
     {
+      "id": 71,
       "quote": "Inspirational quote number 71.",
       "author": "Anonymous"
     },
     {
+      "id": 72,
       "quote": "Inspirational quote number 72.",
       "author": "Anonymous"
     },
     {
+      "id": 73,
       "quote": "Inspirational quote number 73.",
       "author": "Anonymous"
     },
     {
+      "id": 74,
       "quote": "Inspirational quote number 74.",
       "author": "Anonymous"
     },
     {
+      "id": 75,
       "quote": "Inspirational quote number 75.",
       "author": "Anonymous"
     },
     {
+      "id": 76,
       "quote": "Inspirational quote number 76.",
       "author": "Anonymous"
     },
     {
+      "id": 77,
       "quote": "Inspirational quote number 77.",
       "author": "Anonymous"
     },
     {
+      "id": 78,
       "quote": "Inspirational quote number 78.",
       "author": "Anonymous"
     },
     {
+      "id": 79,
       "quote": "Inspirational quote number 79.",
       "author": "Anonymous"
     },
     {
+      "id": 80,
       "quote": "Inspirational quote number 80.",
       "author": "Anonymous"
     },
     {
+      "id": 81,
       "quote": "Inspirational quote number 81.",
       "author": "Anonymous"
     },
     {
+      "id": 82,
       "quote": "Inspirational quote number 82.",
       "author": "Anonymous"
     },
     {
+      "id": 83,
       "quote": "Inspirational quote number 83.",
       "author": "Anonymous"
     },
     {
+      "id": 84,
       "quote": "Inspirational quote number 84.",
       "author": "Anonymous"
     },
     {
+      "id": 85,
       "quote": "Inspirational quote number 85.",
       "author": "Anonymous"
     },
     {
+      "id": 86,
       "quote": "Inspirational quote number 86.",
       "author": "Anonymous"
     },
     {
+      "id": 87,
       "quote": "Inspirational quote number 87.",
       "author": "Anonymous"
     },
     {
+      "id": 88,
       "quote": "Inspirational quote number 88.",
       "author": "Anonymous"
     },
     {
+      "id": 89,
       "quote": "Inspirational quote number 89.",
       "author": "Anonymous"
     },
     {
+      "id": 90,
       "quote": "Inspirational quote number 90.",
       "author": "Anonymous"
     },
     {
+      "id": 91,
       "quote": "Inspirational quote number 91.",
       "author": "Anonymous"
     },
     {
+      "id": 92,
       "quote": "Inspirational quote number 92.",
       "author": "Anonymous"
     },
     {
+      "id": 93,
       "quote": "Inspirational quote number 93.",
       "author": "Anonymous"
     },
     {
+      "id": 94,
       "quote": "Inspirational quote number 94.",
       "author": "Anonymous"
     },
     {
+      "id": 95,
       "quote": "Inspirational quote number 95.",
       "author": "Anonymous"
     },
     {
+      "id": 96,
       "quote": "Inspirational quote number 96.",
       "author": "Anonymous"
     },
     {
+      "id": 97,
       "quote": "Inspirational quote number 97.",
       "author": "Anonymous"
     },
     {
+      "id": 98,
       "quote": "Inspirational quote number 98.",
       "author": "Anonymous"
     },
     {
+      "id": 99,
       "quote": "Inspirational quote number 99.",
       "author": "Anonymous"
     },
     {
+      "id": 100,
       "quote": "Inspirational quote number 100.",
       "author": "Anonymous"
     }
