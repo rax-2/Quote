@@ -1,0 +1,404 @@
+{
+  "quotes": [
+    {
+      "quote": "Be yourself; everyone else is already taken.",
+      "author": "Oscar Wilde"
+    },
+    {
+      "quote": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+      "author": "Albert Einstein"
+    },
+    {
+      "quote": "So many books, so little time.",
+      "author": "Frank Zappa"
+    },
+    {
+      "quote": "A room without books is like a body without a soul.",
+      "author": "Marcus Tullius Cicero"
+    },
+    {
+      "quote": "You only live once, but if you do it right, once is enough.",
+      "author": "Mae West"
+    },
+    {
+      "quote": "Be the change that you wish to see in the world.",
+      "author": "Mahatma Gandhi"
+    },
+    {
+      "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+      "author": "Robert Frost"
+    },
+    {
+      "quote": "If you tell the truth, you don't have to remember anything.",
+      "author": "Mark Twain"
+    },
+    {
+      "quote": "A friend is someone who knows all about you and still loves you.",
+      "author": "Elbert Hubbard"
+    },
+    {
+      "quote": "Always forgive your enemies; nothing annoys them so much.",
+      "author": "Oscar Wilde"
+    },
+    {
+      "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+      "author": "Oscar Wilde"
+    },
+    {
+      "quote": "Without music, life would be a mistake.",
+      "author": "Friedrich Nietzsche"
+    },
+    {
+      "quote": "We accept the love we think we deserve.",
+      "author": "Stephen Chbosky"
+    },
+    {
+      "quote": "Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.",
+      "author": "Marilyn Monroe"
+    },
+    {
+      "quote": "It is never too late to be what you might have been.",
+      "author": "George Eliot"
+    },
+    {
+      "quote": "It does not do to dwell on dreams and forget to live.",
+      "author": "J.K. Rowling"
+    },
+    {
+      "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+      "author": "George Bernard Shaw"
+    },
+    {
+      "quote": "Do what you can, with what you have, where you are.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston S. Churchill"
+    },
+    {
+      "quote": "There is no greater agony than bearing an untold story inside you.",
+      "author": "Maya Angelou"
+    },
+    {
+      "quote": "Everything you can imagine is real.",
+      "author": "Pablo Picasso"
+    },
+    {
+      "quote": "Do one thing every day that scares you.",
+      "author": "Eleanor Roosevelt"
+    },
+    {
+      "quote": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "quote": "Turn your wounds into wisdom.",
+      "author": "Oprah Winfrey"
+    },
+    {
+      "quote": "You miss 100% of the shots you don't take.",
+      "author": "Wayne Gretzky"
+    },
+    {
+      "quote": "Happiness is not something ready made. It comes from your own actions.",
+      "author": "Dalai Lama"
+    },
+    {
+      "quote": "The journey of a thousand miles begins with a single step.",
+      "author": "Lao Tzu"
+    },
+    {
+      "quote": "The best way to predict your future is to create it.",
+      "author": "Abraham Lincoln"
+    },
+    {
+      "quote": "Your time is limited, so don\u2019t waste it living someone else\u2019s life.",
+      "author": "Steve Jobs"
+    },
+    {
+      "quote": "Life is what happens when you're busy making other plans.",
+      "author": "John Lennon"
+    },
+    {
+      "quote": "It always seems impossible until it's done.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "quote": "Not all those who wander are lost.",
+      "author": "J.R.R. Tolkien"
+    },
+    {
+      "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "quote": "Don't cry because it's over, smile because it happened.",
+      "author": "Dr. Seuss"
+    },
+    {
+      "quote": "Act as if what you do makes a difference. It does.",
+      "author": "William James"
+    },
+    {
+      "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "quote": "Dream big and dare to fail.",
+      "author": "Norman Vaughan"
+    },
+    {
+      "quote": "The best revenge is massive success.",
+      "author": "Frank Sinatra"
+    },
+    {
+      "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Zig Ziglar"
+    },
+    {
+      "quote": "The purpose of our lives is to be happy.",
+      "author": "Dalai Lama"
+    },
+    {
+      "quote": "You can't blame gravity for falling in love.",
+      "author": "Albert Einstein"
+    },
+    {
+      "quote": "Love yourself first and everything else falls into line.",
+      "author": "Lucille Ball"
+    },
+    {
+      "quote": "Keep your face always toward the sunshine\u2014and shadows will fall behind you.",
+      "author": "Walt Whitman"
+    },
+    {
+      "quote": "Try to be a rainbow in someone else's cloud.",
+      "author": "Maya Angelou"
+    },
+    {
+      "quote": "Stay hungry, stay foolish.",
+      "author": "Steve Jobs"
+    },
+    {
+      "quote": "Limit your 'always' and your 'nevers'.",
+      "author": "Amy Poehler"
+    },
+    {
+      "quote": "Nothing is impossible. The word itself says 'I'm possible!'",
+      "author": "Audrey Hepburn"
+    },
+    {
+      "quote": "You are enough just as you are.",
+      "author": "Meghan Markle"
+    },
+    {
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "quote": "Don\u2019t wait. The time will never be just right.",
+      "author": "Napoleon Hill"
+    },
+    {
+      "quote": "Inspirational quote number 52.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 53.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 54.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 55.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 56.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 57.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 58.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 59.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 60.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 61.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 62.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 63.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 64.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 65.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 66.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 67.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 68.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 69.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 70.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 71.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 72.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 73.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 74.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 75.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 76.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 77.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 78.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 79.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 80.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 81.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 82.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 83.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 84.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 85.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 86.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 87.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 88.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 89.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 90.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 91.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 92.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 93.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 94.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 95.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 96.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 97.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 98.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 99.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "Inspirational quote number 100.",
+      "author": "Anonymous"
+    }
+  ]
+}
